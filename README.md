@@ -1,7 +1,7 @@
-# 例子
+# example
 
 ### h5 -> pb
-> 运行```python .\h5_to_pb.py .\h5_model\(your-model's-name).h5 .\(your-model's-name).pb```，在result目录下得到pb文件
+> run```python .\h5_to_pb.py .\h5_model\(your-model's-name).h5 .\(your-model's-name).pb```, then you will get pb file in result
 
 
 ### ckpt -> pb
